@@ -83,6 +83,6 @@ This is another typical machine learning question.Platform will consider the mai
 * Platform share profit auto between author , reformer and platform itself.
 
 * Updating the ability value of reformer and the evaluation value of author.
-* 
+
 ##### <center>Architecture Diagram of Native Ad System</center>
 ![](http://s5.sinaimg.cn/middle/002RSgYjzy783A56DS414&690)
